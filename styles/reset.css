@@ -1,0 +1,104 @@
+html, body, body div, iframe, h1, h2, h3, h4, h5, h6, img, p, span, 
+small, strong, sub, sup, b, i, ol, em, 
+article, aside, figure, footer, header, menu, nav, section, details, summary {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    color: #ffffff;
+    font-size: 100%;
+    font-weight: normal;
+    text-decoration: none;
+    vertical-align: center;
+    background: transparent;
+}
+
+
+
+article, aside, figure, footer, header, nav, section, details, summary {
+    display: block;
+}
+
+html {
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+a:link, a:visited, a:hover {
+    text-decoration: none;
+}
+a {
+    margin: 0;
+    padding: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+hr {
+    display: block;
+    height: 1px; 
+    border: 0; 
+    border-top: 3px solid #999999; 
+    margin: 1em 0; 
+    padding: 0;
+}
+select, input, textarea {
+    font: 90% sans-serif;
+}
+small {
+    font-size: 80%;
+}
+b, strong {
+    font-weight: bold;
+}
+em {
+    font-weight: italic;
+}
+ul, li, ol {
+    margin-left: 0;
+    font-size: 100%;
+}
+li {
+    list-style-type: dotted;
+}
+sub, sup {
+    font-size: 75%; 
+    line-height: 0; 
+    position: relative;
+}
+sup {
+    top: -0.5em;
+}
+sub {
+    bottom: -0.2em;
+}
+
+
+
+.clickable, label, button {cursor: pointer;}
+
+button {
+    margin: 0;
+    border: none;
+    width: auto; 
+    overflow: visible;
+}
+
+.ie7 img {-ms-interpolation-mode: bicubic;}
+
+
+
+.clearfix:before, .clearfix:after {
+    content: "\0020"; 
+    display: block;
+    height: 0;
+    overflow: hidden;
+}
+.clearfix:after {
+    clear: both;
+}
+.clearfix {
+    zoom: 1;
+}

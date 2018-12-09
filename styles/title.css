@@ -1,0 +1,39 @@
+div.title {
+    position: relative;
+    height: 100px;
+    width: 96%;
+}
+
+
+
+h1.title {
+    position: absolute;
+    left: 25%;
+    right: 25%;
+    width: 50%;
+    padding-top: 24px;
+
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+}
+
+
+
+span.title {
+    position: absolute;
+    width: 5%;
+
+    color: #a00;
+    font-size: 72px;
+    font-weight: bold;
+    text-align: center;
+}
+span#title1 {
+    left: 15%;
+    right: 80%;
+}
+span#title2 {
+    left: 80%;
+    right: 15%;
+}
