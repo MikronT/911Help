@@ -6,17 +6,17 @@ div.container {
     width: 80%;
     max-width: 2000px;
     min-width: 1000px;
-    margin: 2.0833% auto;
+    margin: 2.1% auto;
 }
 div.container div {
     display: inline-block;
-    margin: 2.0833%;
+    margin: 2.1%;
 }
 
 
 
 div.header {
-    width: 95.833%;
+    width: 95.8%;
 }
 
 
@@ -37,5 +37,5 @@ div.content {
 
 div.footer {
     height: 150px;
-    width: 95.833%;
+    width: 95.8%;
 }

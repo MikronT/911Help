@@ -26,22 +26,22 @@ html {
     box-sizing: inherit;
 }
 
-a:link, a:visited, a:hover {
+a, a:link, a:visited, a:hover {
     text-decoration: none;
-}
-a {
+    cursor: pointer;
     margin: 0;
     padding: 0;
     font-size: 100%;
     vertical-align: baseline;
     background: transparent;
 }
+
 hr {
     display: block;
-    height: 1px; 
-    border: 0; 
-    border-top: 3px solid #999999; 
-    margin: 1em 0; 
+    height: 1px;
+    border: 0;
+    border-top: 3px solid #999999;
+    margin: 1em 0;
     padding: 0;
 }
 select, input, textarea {
@@ -82,7 +82,7 @@ sub {
 button {
     margin: 0;
     border: none;
-    width: auto; 
+    width: auto;
     overflow: visible;
 }
 
@@ -91,7 +91,7 @@ button {
 
 
 .clearfix:before, .clearfix:after {
-    content: "\0020"; 
+    content: "\0020";
     display: block;
     height: 0;
     overflow: hidden;
