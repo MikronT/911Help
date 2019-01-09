@@ -45,6 +45,20 @@ b {
 
 
 
+table {
+    margin: 1% 1% 1% 5%;
+}
+tr {
+    line-height: 35px;
+}
+td {
+    min-width: 130px;
+    color: #BF3C8A;
+    font-size: 22px;
+}
+
+
+
 a:link, a:visited, a:hover {
     font-weight: bolder;
 }
