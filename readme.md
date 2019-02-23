@@ -1,18 +1,12 @@
 # 911 Help
 
 [![Status: Release](https://img.shields.io/badge/Status-Release-green.svg?style=for-the-badge)](#)
+[![Latest Release](https://img.shields.io/badge/Latest-Release-blue.svg?style=for-the-badge)](https://github.com/MikronT/911Help/releases/latest)
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-black.svg?style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0)
 
 ### Version name: *Release v2.0*
 
 A 911 project help page with releases notes.
-
-*Collected for Windows 10 but, in theory, all programs can work on Windows 7, 8 and 8.1 too.*
-
-
-
-## Disclaimer
-- *I am not responsible for any damage to your computer.* I am not responsible for any lost files or data.
 
 
 
